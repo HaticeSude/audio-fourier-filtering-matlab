@@ -11,11 +11,12 @@ applying a low-pass filter, and reconstructing the cleaned signal.
 
 ```
 Audio-Signal-Processing-FFT/
-├── audio/ → Original & filtered audio (.wav)
-├── results/ → Exported figures (.png)
-├── src/ → MATLAB source code (main.m)
+├── audio/        → Original & filtered audio (.wav)
+├── results/      → Exported figures (.png)
+├── src/          → MATLAB source code (main.m)
 └── README.md
 ```
+
 ---
 
 ## 🔍 1. Load Audio Signal & Time Domain Visualization
